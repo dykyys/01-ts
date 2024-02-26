@@ -3,7 +3,7 @@
     "rootDir": "./src", // new
     "outDir": "./dist", // new
     "allowJs": false,
-
+    "baseUrl": "./",
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
     "esModuleInterop": true,
